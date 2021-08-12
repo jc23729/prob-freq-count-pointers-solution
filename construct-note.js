@@ -10,7 +10,7 @@
 
 // Examples:
 
-// constructNote('aa', 'abc') // false
+// constructNote('aa, 'abc') // false
 // constructNote('abc', 'dcba') // true
 // constructNote('aabbcc', 'bcabcaddff') // true
 
